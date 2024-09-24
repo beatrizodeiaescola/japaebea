@@ -2,6 +2,25 @@
     --fundo: #FF69B4;
     --cartao-frente: #FFB6C1;
     --cartao-verso: #FFC0CB;
-    branco: #ffffff;
+    --branco: #ffffff;
     --preto: #000000;
     --destaque: #FF1493;
+}
+
+body{
+
+    background-color:var(--fundo);
+    margin:0;
+}
+
+footer{
+
+    background-color:var(--preto);
+    color:var(--branco);
+    position: fixed;
+    width: 100%;
+    botton: 0;
+    text-align: center;
+
+
+}
