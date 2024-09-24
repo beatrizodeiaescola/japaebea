@@ -1,5 +1,5 @@
 :root{
-    --fundo: #FF69B4;
+    --fundo: #FFF0F5;
     --cartao-frente: #FFB6C1;
     --cartao-verso: #FFC0CB;
     --branco: #ffffff;
@@ -36,10 +36,11 @@ footer{
     .cartao{
         flex-grow: 1;
         flex-basis:calc(33%- 6rem) ;
+        margin: 1rem;
 
     }
 
     .cartao-conteudo{
         background-color:var(--cartao-frente) ;
-        
+
     }
