@@ -9,7 +9,7 @@ criaCartao(
     'Através de movimentos peristálticos')
     
     criaCartao(
-    ‘Biologia',
+    'Biologia',
     'Do que o bile é constituído?',
     'Bicarbonato de sódio e sais biliares')
     
@@ -24,7 +24,7 @@ criaCartao(
     'Boca, faringe, esôfago, estômago, intestino delgado e grosso.')
     
     criaCartao(
-    ‘Filosofia',
+    'Filosofia',
     'A quem pertence a frase: “penso, logo existo”',
     'Decartes')
     
@@ -34,7 +34,7 @@ criaCartao(
     'Maior: Russia e Menor: Vaticano')
     
     criaCartao(
-    ‘Matemática',
+    'Matemática',
     'Quantas casas decimais tem o numero pi?',
     'infinitas')
     
@@ -84,8 +84,8 @@ criaCartao(
     'Séc. XIV')
     
     criaCartao(
-    ‘Matemática',
-    'Quantos graus são necessários para que dois ângulos sejam completares?',
+    'Matemática' ,
+    'Quantos graus são necessários para que dois ângulos sejam complementares?',
     '90°')
     
     criaCartao(
