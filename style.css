@@ -42,5 +42,22 @@ footer{
 
     .cartao-conteudo{
         background-color:var(--cartao-frente) ;
+        color: var(--branco);
+        text-align: center;
+        height: 100%;
+
 
     }
+
+     .cartao-conteudo h3{
+        position: absolute;
+        border: 1px solid var(--destaque);
+        text-align: left;
+        margin: 0.6rem;
+        border-radius: 0.5rem;
+        font-size: 1vw;
+
+     }
+        
+
+
