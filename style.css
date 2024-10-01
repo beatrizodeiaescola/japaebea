@@ -58,6 +58,34 @@ footer{
         font-size: 1vw;
 
      }
+
+     .cartao-conteudo p{
+
+        margin-top: 4rem;
+        padding: 2rem;
+        font-size: 1.4vw;
+
+     }
+
+     .cartao-resposta p {
+
+        color: var(--cartao-verso);
+        font-weight: 700;
+
+
+     }
         
+     .cartao-pergunta p {
+
+        color: var(--preto);
+        font-weight: 500;
+
+     }
+
+     .cartao: :hover .cartao-conteudo{
+       transform: rotateY(180deg);
+       
+     }
+
 
 
